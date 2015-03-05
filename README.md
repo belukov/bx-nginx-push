@@ -1,6 +1,7 @@
 # bx-nginx-push
 1. install nginx with push-stream-module
 http://github.com/wandenberg/nginx-push-stream-module.git
+P.S. nice guide: http://www.lisov.org/dobavlenie-modulya-nginx-debian-way.html (rus)
 
 2. clone me
 cd /etc/nginx
